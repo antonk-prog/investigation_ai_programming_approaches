@@ -1,0 +1,7 @@
+timestamp,level,module,message
+2026-10-01T08:00:00,INFO,can,"ok"
+2026-13-01T08:00:00,INFO,can,"bad month"
+2026-10-01T08:00:00,LOUD,can,"bad level"
+2026-10-01T08:00:00,INFO
+2026-10-01T08:01:00,WARN,io,"fine"
+2026-10-01T08:02:00,ERROR,io,"Comm lost, retrying"

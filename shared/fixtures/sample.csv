@@ -1,0 +1,13 @@
+timestamp,level,module,message
+2026-10-01T08:00:00,INFO,can,"Controller started"
+2026-10-01T08:01:15,DEBUG,can,"CAN bus up, bitrate=500000"
+2026-10-01T08:02:30,INFO,io,"Input 1 active"
+2026-10-01T08:03:45,WARN,io,"Input 2 debounce timeout"
+2026-10-01T08:04:00,ERROR,power,"Voltage low: 18.2 V"
+2026-10-01T09:00:00,INFO,can,"Heartbeat"
+2026-10-01T09:30:00,ERROR,can,"Bus-off detected"
+2026-10-01T10:00:00,TRACE,io,"Raw value 1023"
+2026-10-01T10:15:00,WARN,power,"Temperature high: 78 C"
+2026-10-01T10:30:00,DEBUG,power,"Fan speed 60%"
+2026-10-01T11:00:00,INFO,io,"Input 3 active"
+2026-10-01T11:45:00,ERROR,io,"Short circuit on output 4"

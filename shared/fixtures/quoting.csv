@@ -1,0 +1,3 @@
+timestamp,level,module,message
+2026-10-01T12:00:00,ERROR,io,"Comm ""lost"", retrying"
+2026-10-01T12:01:00,INFO,can,"plain"

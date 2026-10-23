@@ -1,0 +1,15 @@
+build/
+out/
+bin/
+node_modules/
+__pycache__/
+.venv/
+*.pyc
+compile_commands.json
+.cache/
+_bmad/
+_bmad-output/
+.DS_Store
+*.o
+*.a
+*.so
